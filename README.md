@@ -1,4 +1,4 @@
-#zebra-currency_hack.nayan
+#termux_xplorer.zebra-currency_hack.nayan
 
 
 Hi ,,
@@ -8,4 +8,15 @@ apt install git
 
 git clone https://github.com/TermuxXplorer/termux_xplorer.zebra-currency_hack.nayan
 
-CD 
+CD termux_xplorer.zebra-currency_hack.nayan
+
+ls
+
+php bot.php
+
+
+Looked tutorial video 👇
+https://youtube.com/channel/UCaQKMRDrm_FHnuPrvBLEPSA
+
+Contact on telegram 👇
+https://t.me/joinchat/hA-M94AZKhxlZDVl
