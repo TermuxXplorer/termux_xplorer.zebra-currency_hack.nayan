@@ -13,7 +13,7 @@ apt install git
 
 git clone https://github.com/TermuxXplorer/termux_xplorer.zebra-currency_hack.nayan
 
-CD termux_xplorer.zebra-currency_hack.nayan
+cd termux_xplorer.zebra-currency_hack.nayan
 
 ls
 
